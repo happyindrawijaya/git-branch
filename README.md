@@ -1,2 +1,2 @@
-# git
-Deep dive into git world
+# git-branch
+Deep dive into git branching.
