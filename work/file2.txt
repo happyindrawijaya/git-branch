@@ -1,2 +1,2 @@
 
-added by branch addfeature-2
+Added by branch addfeature-2. updated by branch bugfix2.
