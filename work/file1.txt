@@ -4,3 +4,5 @@ git-branch
 Deep dive into git branching.
 
 Add new feature 1
+
+Add more feature by feature-1
