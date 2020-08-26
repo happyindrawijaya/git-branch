@@ -3,6 +3,6 @@ git-branch
 -------------
 Deep dive into git branching.
 
-Add feature one
+Add feature #1
 
 Change this feature by feature-1
