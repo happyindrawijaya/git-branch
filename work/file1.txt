@@ -3,4 +3,8 @@ git-branch
 -------------
 Deep dive into git branching.
 
-Add new feature 1
+Add feature #1
+
+Change this feature by feature-1
+
+Add and update feature #2
