@@ -7,4 +7,4 @@ Add feature #1
 
 Change this feature by feature-1
 
-Add feature #2
+Add and update feature #2
